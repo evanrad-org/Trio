@@ -73,7 +73,7 @@ extension Color {
     // Static Glucose Color Scheme band colors — needs to be kept in sync with DynamicGlucoseColor.swift
     static let staticLow = Color(hue: 0.0 / 360.0, saturation: 0.6, brightness: 0.9)
     static let staticInRange = Color(hue: 120.0 / 360.0, saturation: 0.6, brightness: 0.9)
-    static let staticHigh = Color(hue: 270.0 / 360.0, saturation: 0.6, brightness: 0.9)
+    static let staticHigh = Color(hue: 36.0 / 360.0, saturation: 0.6, brightness: 0.9)
 
     // Helper function to decide how to pick the glucose color
     static func getDynamicGlucoseColor(
